@@ -1,5 +1,5 @@
 export default {
-  JWT_SECRET: "+jUQBuoFtU8uMFSqHuXgZVXo/K6nu/hZ0vxpyQVS9Wc=",
+  JWT_SECRET: "xyz",
   EMAIL: "destiny64@ethereal.email",
   PASSWORD: "SN1VJ32xWyAC5mqeDH",
   ATLAS_URI:
